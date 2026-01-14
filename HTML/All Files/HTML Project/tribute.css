@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+header img{
+    width: 20rem;
+    height: auto;
+    border: 2px orangered solid;
+    border-radius: 50%;
+}
+.name ,.p{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.life > ul{
+    margin-left: 20px;
+}
+.turn > ul > li  {
+    margin-left: 20px;
+}
