@@ -18,3 +18,16 @@
 
 // let nu =Math.floor( Math.random()*100)+1000;
 // console.log(nu);
+
+
+// program for grade checking
+function grade(a){
+    if(a>=90){
+        console.log("A grade")
+    }
+    else if(a>=80)
+    {
+        console.log("B grade")
+    }
+}
+grade(85)
