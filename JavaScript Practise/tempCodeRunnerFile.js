@@ -1,1 +1,1 @@
-user()
+console.log(add)
