@@ -1,1 +1,1 @@
-console.log(add)
+console.log(arr)
