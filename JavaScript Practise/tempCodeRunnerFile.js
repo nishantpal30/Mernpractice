@@ -1,1 +1,3 @@
-console.log(arr)
+console.log(obj)
+
+// console.log(obj.username)
