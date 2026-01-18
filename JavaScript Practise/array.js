@@ -31,3 +31,39 @@
 // console.log(newshort)
 
 
+// filter()
+
+// let newarr = arr.filter((num)=>(
+//     num<30))
+// console.log(newarr)
+// let arr = [40,30,20,58,10 ]
+// let newarr = arr.filter(function(num){
+
+//     let nooo =num<40
+//     console.log(nooo)
+//     return nooo;
+// })
+
+// console.log(newarr)
+
+// let newarr = arr.filter((num) => num%40 )
+
+// console.log(newarr)
+
+// let arr = [40,30,20,58,10 ]
+// let newarr = arr.map(function(num){
+//     console.log(num)
+//     return num*10
+// })
+
+// console.log(newarr)
+
+// let arr = [40,30,20,58,10 ]
+// let newarr = arr.map((num) =>
+    
+//     num*10
+// )
+
+// console.log(newarr)
+
+

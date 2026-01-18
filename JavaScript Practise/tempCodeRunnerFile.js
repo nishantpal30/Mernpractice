@@ -1,3 +1,1 @@
-console.log(obj)
-
-// console.log(obj.username)
+ return nooo;
