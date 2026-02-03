@@ -53,3 +53,10 @@ The [.then()] function takes function as an argument that we want to execute aft
 
 .then mai ager last mai return likh kr kuch return kara to boh ek or promise bana dega or return karega.
 [The .then() function itself return a new promises]
+
+
+Micro task is given heigher priority as compare to evevt queue.
+In micro task que primises is gone (check on chatgpt).
+promise callback goes to microtask queue. And Normal callback goes to event queue.
+
+Promise goes to microtask queue when it will be completely resolve. 
